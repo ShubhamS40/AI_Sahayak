@@ -1,0 +1,9 @@
+# Node dependencies
+node_modules/
+
+# Python virtual environment
+/medical_ai_backend/.venv
+venv/
+
+# Environment variables
+.env

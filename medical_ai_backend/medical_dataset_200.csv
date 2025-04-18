@@ -1,0 +1,201 @@
+symptoms,disease,diagnosis,medicines,tests,precautions,food,emergency
+"fever, cough, sore throat",Flu,Influenza is a viral infection affecting the respiratory system.,"Paracetamol (500mg 8 hourly), Oseltamivir (75mg twice daily)","Rapid Influenza Test, CBC","Rest, Hydration","Warm soups, Ginger tea",False
+"high fever, rash, joint pain",Dengue,Mosquito-borne viral disease causing thrombocytopenia.,"Paracetamol (500mg 6 hourly), Oral Rehydration (As needed)","NS1 Antigen, PCR Test","Mosquito control, Platelet monitoring","Papaya leaf extract, Coconut water",True
+"excessive thirst, frequent urination",Diabetes,Chronic metabolic disorder with insulin deficiency/resistance.,"Metformin (500mg twice daily), Insulin Glargine (As prescribed)","HbA1c, Fasting Blood Sugar","Diet control, Regular exercise","High fiber foods, Bitter gourd",False
+"chest pain, shortness of breath",Heart Attack,Acute myocardial ischemia due to coronary blockage.,"Aspirin (325mg chewable), Nitroglycerin (0.4mg sublingual)","ECG, Troponin Test","Immediate hospitalization, CPR if needed",,True
+"back pain, blood in urine",Kidney Stones,Hard mineral deposits in kidneys,Tamsulosin (0.4mg daily),Malaria antigen test,Hydration,"Cranberry juice, Water",True
+"back pain, blood in urine",Epilepsy,Hard mineral deposits in kidneys,Amoxicillin (500mg twice daily),"X-ray, MRI",Avoid smoking,"Turmeric, Omega-3 rich foods",False
+"fatigue, weight loss",Typhoid,Chronic respiratory inflammation,Tamsulosin (0.4mg daily),Malaria antigen test,Hydration,"Turmeric, Omega-3 rich foods",True
+"fatigue, weight loss",Hypertension,Elevated blood pressure,Lisinopril (10mg daily),"Urine analysis, CT scan",Physical therapy,High-protein diet,True
+"back pain, blood in urine",Stroke,Hard mineral deposits in kidneys,Tamsulosin (0.4mg daily),Rheumatoid factor test,Low sodium diet,"Green vegetables, Whole grains",False
+"fatigue, weight loss",Arthritis,Elevated blood pressure,Lisinopril (10mg daily),Rheumatoid factor test,Avoid smoking,"Low-fat dairy, Fish",False
+"back pain, blood in urine",Epilepsy,Autoimmune joint disorder,Lisinopril (10mg daily),"Blood pressure check, ECG",Physical therapy,High-protein diet,True
+"dizziness, nausea",Kidney Stones,Chronic respiratory inflammation,Ibuprofen (200mg 8 hourly),"Urine analysis, CT scan",Hydration,High-protein diet,False
+"fatigue, weight loss",Kidney Stones,Autoimmune joint disorder,Lisinopril (10mg daily),"Blood pressure check, ECG",Avoid smoking,"Low-fat dairy, Fish",False
+"fatigue, weight loss",Arthritis,Chronic respiratory inflammation,Hydroxychloroquine (200mg daily),Malaria antigen test,Low sodium diet,"Cranberry juice, Water",False
+"dizziness, nausea",Stroke,Autoimmune joint disorder,Hydroxychloroquine (200mg daily),"Urine analysis, CT scan",Avoid smoking,High-protein diet,False
+"dizziness, nausea",Pneumonia,Elevated blood pressure,Ibuprofen (200mg 8 hourly),"X-ray, MRI",Physical therapy,"Cranberry juice, Water",True
+"chronic cough, night sweats",Typhoid,Autoimmune joint disorder,Ibuprofen (200mg 8 hourly),"Urine analysis, CT scan",Mosquito net usage,High-protein diet,True
+"fatigue, weight loss",Asthma,Autoimmune joint disorder,Ibuprofen (200mg 8 hourly),"X-ray, MRI",Physical therapy,High-protein diet,True
+"chronic cough, night sweats",Pneumonia,Autoimmune joint disorder,Tamsulosin (0.4mg daily),Rheumatoid factor test,Avoid smoking,High-protein diet,True
+"joint stiffness, swelling",Asthma,Bacterial lung infection,Ibuprofen (200mg 8 hourly),Malaria antigen test,Physical therapy,High-protein diet,False
+"joint stiffness, swelling",Asthma,Chronic respiratory inflammation,Tamsulosin (0.4mg daily),"Urine analysis, CT scan",Mosquito net usage,"Low-fat dairy, Fish",False
+"dizziness, nausea",Stroke,Chronic respiratory inflammation,Amoxicillin (500mg twice daily),"Blood pressure check, ECG",Physical therapy,"Low-fat dairy, Fish",False
+"joint stiffness, swelling",Pneumonia,Autoimmune joint disorder,Ibuprofen (200mg 8 hourly),"X-ray, MRI",Physical therapy,"Green vegetables, Whole grains",False
+"back pain, blood in urine",Pneumonia,Chronic respiratory inflammation,Hydroxychloroquine (200mg daily),Rheumatoid factor test,Physical therapy,High-protein diet,True
+"chronic cough, night sweats",Kidney Stones,Hard mineral deposits in kidneys,Amoxicillin (500mg twice daily),"Blood pressure check, ECG",Physical therapy,"Low-fat dairy, Fish",False
+"fatigue, weight loss",Typhoid,Hard mineral deposits in kidneys,Amoxicillin (500mg twice daily),Malaria antigen test,Low sodium diet,"Cranberry juice, Water",True
+"dizziness, nausea",Hypertension,Bacterial lung infection,Tamsulosin (0.4mg daily),"X-ray, MRI",Low sodium diet,"Low-fat dairy, Fish",False
+"joint stiffness, swelling",Asthma,Chronic respiratory inflammation,Amoxicillin (500mg twice daily),"Urine analysis, CT scan",Hydration,"Green vegetables, Whole grains",True
+"joint stiffness, swelling",Asthma,Autoimmune joint disorder,Hydroxychloroquine (200mg daily),"Blood pressure check, ECG",Physical therapy,"Cranberry juice, Water",False
+"dizziness, nausea",Arthritis,Hard mineral deposits in kidneys,Tamsulosin (0.4mg daily),Rheumatoid factor test,Hydration,"Cranberry juice, Water",False
+"back pain, blood in urine",Arthritis,Autoimmune joint disorder,Amoxicillin (500mg twice daily),Malaria antigen test,Low sodium diet,"Green vegetables, Whole grains",True
+"fatigue, weight loss",Hypertension,Chronic respiratory inflammation,Lisinopril (10mg daily),Malaria antigen test,Avoid smoking,High-protein diet,True
+"dizziness, nausea",Stroke,Chronic respiratory inflammation,Amoxicillin (500mg twice daily),Rheumatoid factor test,Avoid smoking,"Turmeric, Omega-3 rich foods",True
+"back pain, blood in urine",Stroke,Elevated blood pressure,Hydroxychloroquine (200mg daily),Malaria antigen test,Physical therapy,"Cranberry juice, Water",True
+"dizziness, nausea",Tuberculosis,Autoimmune joint disorder,Ibuprofen (200mg 8 hourly),Rheumatoid factor test,Physical therapy,"Low-fat dairy, Fish",True
+"dizziness, nausea",Tuberculosis,Elevated blood pressure,Amoxicillin (500mg twice daily),Rheumatoid factor test,Avoid smoking,"Turmeric, Omega-3 rich foods",False
+"back pain, blood in urine",Arthritis,Autoimmune joint disorder,Amoxicillin (500mg twice daily),"X-ray, MRI",Low sodium diet,"Cranberry juice, Water",True
+"chronic cough, night sweats",Kidney Stones,Chronic respiratory inflammation,Tamsulosin (0.4mg daily),"Urine analysis, CT scan",Hydration,High-protein diet,False
+"dizziness, nausea",Malaria,Autoimmune joint disorder,Ibuprofen (200mg 8 hourly),Malaria antigen test,Mosquito net usage,"Cranberry juice, Water",True
+"joint stiffness, swelling",Typhoid,Hard mineral deposits in kidneys,Lisinopril (10mg daily),Malaria antigen test,Physical therapy,"Cranberry juice, Water",False
+"fatigue, weight loss",Kidney Stones,Hard mineral deposits in kidneys,Ibuprofen (200mg 8 hourly),"X-ray, MRI",Avoid smoking,"Turmeric, Omega-3 rich foods",True
+"fatigue, weight loss",Kidney Stones,Elevated blood pressure,Tamsulosin (0.4mg daily),"Urine analysis, CT scan",Avoid smoking,"Cranberry juice, Water",False
+"dizziness, nausea",Stroke,Hard mineral deposits in kidneys,Lisinopril (10mg daily),"X-ray, MRI",Hydration,"Turmeric, Omega-3 rich foods",False
+"chronic cough, night sweats",Kidney Stones,Hard mineral deposits in kidneys,Ibuprofen (200mg 8 hourly),Rheumatoid factor test,Physical therapy,High-protein diet,True
+"fatigue, weight loss",Tuberculosis,Elevated blood pressure,Amoxicillin (500mg twice daily),Rheumatoid factor test,Hydration,"Green vegetables, Whole grains",True
+"chronic cough, night sweats",Stroke,Bacterial lung infection,Hydroxychloroquine (200mg daily),Malaria antigen test,Low sodium diet,"Green vegetables, Whole grains",True
+"dizziness, nausea",Typhoid,Bacterial lung infection,Lisinopril (10mg daily),"X-ray, MRI",Avoid smoking,"Cranberry juice, Water",True
+"joint stiffness, swelling",Arthritis,Elevated blood pressure,Amoxicillin (500mg twice daily),Malaria antigen test,Avoid smoking,"Low-fat dairy, Fish",False
+"joint stiffness, swelling",Arthritis,Elevated blood pressure,Tamsulosin (0.4mg daily),"Blood pressure check, ECG",Low sodium diet,"Turmeric, Omega-3 rich foods",False
+"chronic cough, night sweats",Asthma,Elevated blood pressure,Ibuprofen (200mg 8 hourly),"X-ray, MRI",Avoid smoking,High-protein diet,False
+"back pain, blood in urine",Arthritis,Hard mineral deposits in kidneys,Hydroxychloroquine (200mg daily),"Urine analysis, CT scan",Avoid smoking,"Cranberry juice, Water",True
+"chronic cough, night sweats",Pneumonia,Bacterial lung infection,Lisinopril (10mg daily),"Urine analysis, CT scan",Physical therapy,"Green vegetables, Whole grains",True
+"fatigue, weight loss",Arthritis,Hard mineral deposits in kidneys,Hydroxychloroquine (200mg daily),"Blood pressure check, ECG",Low sodium diet,High-protein diet,True
+"chronic cough, night sweats",Tuberculosis,Chronic respiratory inflammation,Ibuprofen (200mg 8 hourly),"X-ray, MRI",Avoid smoking,"Low-fat dairy, Fish",True
+"back pain, blood in urine",Asthma,Hard mineral deposits in kidneys,Ibuprofen (200mg 8 hourly),Malaria antigen test,Hydration,"Low-fat dairy, Fish",False
+"back pain, blood in urine",Tuberculosis,Hard mineral deposits in kidneys,Hydroxychloroquine (200mg daily),Rheumatoid factor test,Mosquito net usage,"Low-fat dairy, Fish",False
+"chronic cough, night sweats",Malaria,Elevated blood pressure,Lisinopril (10mg daily),"X-ray, MRI",Avoid smoking,"Turmeric, Omega-3 rich foods",False
+"dizziness, nausea",Stroke,Bacterial lung infection,Hydroxychloroquine (200mg daily),Rheumatoid factor test,Avoid smoking,"Low-fat dairy, Fish",True
+"chronic cough, night sweats",Kidney Stones,Chronic respiratory inflammation,Amoxicillin (500mg twice daily),Malaria antigen test,Hydration,"Green vegetables, Whole grains",False
+"joint stiffness, swelling",Pneumonia,Elevated blood pressure,Lisinopril (10mg daily),"Blood pressure check, ECG",Mosquito net usage,"Green vegetables, Whole grains",True
+"chronic cough, night sweats",Pneumonia,Autoimmune joint disorder,Lisinopril (10mg daily),Malaria antigen test,Hydration,High-protein diet,False
+"dizziness, nausea",Asthma,Bacterial lung infection,Tamsulosin (0.4mg daily),"X-ray, MRI",Avoid smoking,"Low-fat dairy, Fish",True
+"joint stiffness, swelling",Malaria,Hard mineral deposits in kidneys,Hydroxychloroquine (200mg daily),Rheumatoid factor test,Avoid smoking,"Turmeric, Omega-3 rich foods",True
+"chronic cough, night sweats",Tuberculosis,Autoimmune joint disorder,Tamsulosin (0.4mg daily),"X-ray, MRI",Physical therapy,"Low-fat dairy, Fish",True
+"joint stiffness, swelling",Malaria,Bacterial lung infection,Tamsulosin (0.4mg daily),Malaria antigen test,Hydration,"Cranberry juice, Water",True
+"fatigue, weight loss",Pneumonia,Autoimmune joint disorder,Amoxicillin (500mg twice daily),Malaria antigen test,Mosquito net usage,"Turmeric, Omega-3 rich foods",False
+"fatigue, weight loss",Epilepsy,Bacterial lung infection,Amoxicillin (500mg twice daily),Rheumatoid factor test,Mosquito net usage,"Low-fat dairy, Fish",False
+"chronic cough, night sweats",Arthritis,Elevated blood pressure,Amoxicillin (500mg twice daily),Rheumatoid factor test,Physical therapy,High-protein diet,True
+"dizziness, nausea",Epilepsy,Elevated blood pressure,Amoxicillin (500mg twice daily),Malaria antigen test,Hydration,"Turmeric, Omega-3 rich foods",True
+"back pain, blood in urine",Stroke,Bacterial lung infection,Tamsulosin (0.4mg daily),Malaria antigen test,Low sodium diet,"Turmeric, Omega-3 rich foods",False
+"back pain, blood in urine",Kidney Stones,Hard mineral deposits in kidneys,Ibuprofen (200mg 8 hourly),Malaria antigen test,Hydration,"Green vegetables, Whole grains",True
+"back pain, blood in urine",Epilepsy,Hard mineral deposits in kidneys,Ibuprofen (200mg 8 hourly),Rheumatoid factor test,Avoid smoking,"Green vegetables, Whole grains",True
+"fatigue, weight loss",Tuberculosis,Elevated blood pressure,Amoxicillin (500mg twice daily),Malaria antigen test,Mosquito net usage,"Cranberry juice, Water",False
+"chronic cough, night sweats",Epilepsy,Autoimmune joint disorder,Ibuprofen (200mg 8 hourly),"X-ray, MRI",Avoid smoking,"Turmeric, Omega-3 rich foods",False
+"dizziness, nausea",Hypertension,Autoimmune joint disorder,Lisinopril (10mg daily),Rheumatoid factor test,Physical therapy,"Turmeric, Omega-3 rich foods",True
+"chronic cough, night sweats",Typhoid,Autoimmune joint disorder,Hydroxychloroquine (200mg daily),Rheumatoid factor test,Low sodium diet,"Green vegetables, Whole grains",True
+"chronic cough, night sweats",Arthritis,Hard mineral deposits in kidneys,Lisinopril (10mg daily),"Urine analysis, CT scan",Mosquito net usage,"Green vegetables, Whole grains",False
+"fatigue, weight loss",Malaria,Bacterial lung infection,Amoxicillin (500mg twice daily),Rheumatoid factor test,Mosquito net usage,"Cranberry juice, Water",False
+"back pain, blood in urine",Stroke,Bacterial lung infection,Ibuprofen (200mg 8 hourly),"X-ray, MRI",Physical therapy,High-protein diet,False
+"fatigue, weight loss",Kidney Stones,Autoimmune joint disorder,Ibuprofen (200mg 8 hourly),Rheumatoid factor test,Low sodium diet,"Cranberry juice, Water",False
+"dizziness, nausea",Pneumonia,Bacterial lung infection,Hydroxychloroquine (200mg daily),Rheumatoid factor test,Physical therapy,"Green vegetables, Whole grains",False
+"fatigue, weight loss",Tuberculosis,Autoimmune joint disorder,Hydroxychloroquine (200mg daily),"Urine analysis, CT scan",Physical therapy,"Low-fat dairy, Fish",True
+"fatigue, weight loss",Hypertension,Hard mineral deposits in kidneys,Lisinopril (10mg daily),"X-ray, MRI",Avoid smoking,"Cranberry juice, Water",False
+"joint stiffness, swelling",Arthritis,Elevated blood pressure,Amoxicillin (500mg twice daily),"X-ray, MRI",Mosquito net usage,"Turmeric, Omega-3 rich foods",False
+"joint stiffness, swelling",Tuberculosis,Elevated blood pressure,Amoxicillin (500mg twice daily),Rheumatoid factor test,Avoid smoking,"Low-fat dairy, Fish",False
+"back pain, blood in urine",Epilepsy,Hard mineral deposits in kidneys,Amoxicillin (500mg twice daily),"Blood pressure check, ECG",Hydration,"Green vegetables, Whole grains",True
+"chronic cough, night sweats",Stroke,Hard mineral deposits in kidneys,Lisinopril (10mg daily),Rheumatoid factor test,Avoid smoking,High-protein diet,True
+"chronic cough, night sweats",Asthma,Autoimmune joint disorder,Amoxicillin (500mg twice daily),"X-ray, MRI",Mosquito net usage,"Cranberry juice, Water",False
+"chronic cough, night sweats",Stroke,Autoimmune joint disorder,Lisinopril (10mg daily),"Blood pressure check, ECG",Low sodium diet,"Cranberry juice, Water",True
+"back pain, blood in urine",Malaria,Chronic respiratory inflammation,Ibuprofen (200mg 8 hourly),"Urine analysis, CT scan",Hydration,"Green vegetables, Whole grains",True
+"joint stiffness, swelling",Hypertension,Bacterial lung infection,Hydroxychloroquine (200mg daily),"X-ray, MRI",Low sodium diet,"Turmeric, Omega-3 rich foods",True
+"dizziness, nausea",Epilepsy,Autoimmune joint disorder,Amoxicillin (500mg twice daily),Rheumatoid factor test,Mosquito net usage,High-protein diet,False
+"joint stiffness, swelling",Asthma,Bacterial lung infection,Tamsulosin (0.4mg daily),"X-ray, MRI",Mosquito net usage,"Low-fat dairy, Fish",True
+"back pain, blood in urine",Stroke,Autoimmune joint disorder,Ibuprofen (200mg 8 hourly),Rheumatoid factor test,Avoid smoking,"Turmeric, Omega-3 rich foods",False
+"joint stiffness, swelling",Tuberculosis,Elevated blood pressure,Amoxicillin (500mg twice daily),"Blood pressure check, ECG",Physical therapy,"Turmeric, Omega-3 rich foods",False
+"dizziness, nausea",Malaria,Autoimmune joint disorder,Ibuprofen (200mg 8 hourly),"Urine analysis, CT scan",Hydration,High-protein diet,False
+"fatigue, weight loss",Pneumonia,Hard mineral deposits in kidneys,Tamsulosin (0.4mg daily),"Blood pressure check, ECG",Low sodium diet,"Turmeric, Omega-3 rich foods",True
+"back pain, blood in urine",Epilepsy,Autoimmune joint disorder,Amoxicillin (500mg twice daily),Malaria antigen test,Low sodium diet,"Low-fat dairy, Fish",False
+"back pain, blood in urine",Tuberculosis,Hard mineral deposits in kidneys,Lisinopril (10mg daily),Rheumatoid factor test,Low sodium diet,High-protein diet,True
+"chronic cough, night sweats",Stroke,Bacterial lung infection,Tamsulosin (0.4mg daily),"Urine analysis, CT scan",Mosquito net usage,High-protein diet,False
+"back pain, blood in urine",Epilepsy,Autoimmune joint disorder,Lisinopril (10mg daily),Rheumatoid factor test,Physical therapy,"Turmeric, Omega-3 rich foods",False
+"dizziness, nausea",Asthma,Chronic respiratory inflammation,Tamsulosin (0.4mg daily),Rheumatoid factor test,Physical therapy,High-protein diet,True
+"fatigue, weight loss",Epilepsy,Elevated blood pressure,Lisinopril (10mg daily),"Urine analysis, CT scan",Mosquito net usage,High-protein diet,False
+"joint stiffness, swelling",Hypertension,Chronic respiratory inflammation,Ibuprofen (200mg 8 hourly),"X-ray, MRI",Avoid smoking,"Green vegetables, Whole grains",True
+"back pain, blood in urine",Pneumonia,Autoimmune joint disorder,Lisinopril (10mg daily),"Blood pressure check, ECG",Low sodium diet,"Cranberry juice, Water",False
+"dizziness, nausea",Tuberculosis,Hard mineral deposits in kidneys,Tamsulosin (0.4mg daily),"Blood pressure check, ECG",Mosquito net usage,"Turmeric, Omega-3 rich foods",False
+"chronic cough, night sweats",Arthritis,Autoimmune joint disorder,Ibuprofen (200mg 8 hourly),"Blood pressure check, ECG",Avoid smoking,"Cranberry juice, Water",True
+"joint stiffness, swelling",Stroke,Chronic respiratory inflammation,Lisinopril (10mg daily),Rheumatoid factor test,Avoid smoking,"Green vegetables, Whole grains",False
+"back pain, blood in urine",Typhoid,Elevated blood pressure,Amoxicillin (500mg twice daily),"Urine analysis, CT scan",Physical therapy,"Cranberry juice, Water",False
+"fatigue, weight loss",Kidney Stones,Autoimmune joint disorder,Lisinopril (10mg daily),"Urine analysis, CT scan",Hydration,"Turmeric, Omega-3 rich foods",True
+"fatigue, weight loss",Arthritis,Bacterial lung infection,Lisinopril (10mg daily),Rheumatoid factor test,Hydration,High-protein diet,True
+"joint stiffness, swelling",Tuberculosis,Chronic respiratory inflammation,Amoxicillin (500mg twice daily),"Blood pressure check, ECG",Low sodium diet,"Low-fat dairy, Fish",False
+"dizziness, nausea",Malaria,Autoimmune joint disorder,Hydroxychloroquine (200mg daily),"Blood pressure check, ECG",Mosquito net usage,"Turmeric, Omega-3 rich foods",False
+"fatigue, weight loss",Kidney Stones,Autoimmune joint disorder,Amoxicillin (500mg twice daily),"Urine analysis, CT scan",Low sodium diet,"Turmeric, Omega-3 rich foods",True
+"dizziness, nausea",Typhoid,Autoimmune joint disorder,Lisinopril (10mg daily),"Blood pressure check, ECG",Physical therapy,"Green vegetables, Whole grains",True
+"chronic cough, night sweats",Arthritis,Bacterial lung infection,Tamsulosin (0.4mg daily),"X-ray, MRI",Mosquito net usage,"Turmeric, Omega-3 rich foods",True
+"dizziness, nausea",Epilepsy,Chronic respiratory inflammation,Tamsulosin (0.4mg daily),"Blood pressure check, ECG",Mosquito net usage,"Low-fat dairy, Fish",False
+"back pain, blood in urine",Kidney Stones,Hard mineral deposits in kidneys,Hydroxychloroquine (200mg daily),"Blood pressure check, ECG",Low sodium diet,"Low-fat dairy, Fish",False
+"back pain, blood in urine",Hypertension,Autoimmune joint disorder,Amoxicillin (500mg twice daily),"X-ray, MRI",Avoid smoking,"Green vegetables, Whole grains",False
+"dizziness, nausea",Malaria,Hard mineral deposits in kidneys,Lisinopril (10mg daily),Malaria antigen test,Avoid smoking,"Turmeric, Omega-3 rich foods",True
+"dizziness, nausea",Pneumonia,Chronic respiratory inflammation,Amoxicillin (500mg twice daily),"X-ray, MRI",Low sodium diet,High-protein diet,False
+"chronic cough, night sweats",Pneumonia,Bacterial lung infection,Amoxicillin (500mg twice daily),Rheumatoid factor test,Mosquito net usage,High-protein diet,False
+"chronic cough, night sweats",Hypertension,Hard mineral deposits in kidneys,Lisinopril (10mg daily),"Blood pressure check, ECG",Mosquito net usage,"Green vegetables, Whole grains",True
+"back pain, blood in urine",Typhoid,Hard mineral deposits in kidneys,Hydroxychloroquine (200mg daily),"X-ray, MRI",Physical therapy,"Turmeric, Omega-3 rich foods",True
+"chronic cough, night sweats",Hypertension,Hard mineral deposits in kidneys,Ibuprofen (200mg 8 hourly),Malaria antigen test,Physical therapy,"Green vegetables, Whole grains",True
+"joint stiffness, swelling",Tuberculosis,Hard mineral deposits in kidneys,Amoxicillin (500mg twice daily),"Blood pressure check, ECG",Hydration,High-protein diet,True
+"back pain, blood in urine",Epilepsy,Autoimmune joint disorder,Hydroxychloroquine (200mg daily),"Urine analysis, CT scan",Physical therapy,"Cranberry juice, Water",True
+"joint stiffness, swelling",Tuberculosis,Elevated blood pressure,Tamsulosin (0.4mg daily),Malaria antigen test,Hydration,"Green vegetables, Whole grains",False
+"dizziness, nausea",Arthritis,Chronic respiratory inflammation,Lisinopril (10mg daily),"Blood pressure check, ECG",Mosquito net usage,"Turmeric, Omega-3 rich foods",False
+"back pain, blood in urine",Asthma,Hard mineral deposits in kidneys,Ibuprofen (200mg 8 hourly),"X-ray, MRI",Avoid smoking,"Turmeric, Omega-3 rich foods",False
+"dizziness, nausea",Kidney Stones,Autoimmune joint disorder,Hydroxychloroquine (200mg daily),Rheumatoid factor test,Hydration,High-protein diet,False
+"fatigue, weight loss",Kidney Stones,Bacterial lung infection,Hydroxychloroquine (200mg daily),"Blood pressure check, ECG",Hydration,"Cranberry juice, Water",False
+"chronic cough, night sweats",Asthma,Chronic respiratory inflammation,Ibuprofen (200mg 8 hourly),Rheumatoid factor test,Avoid smoking,"Cranberry juice, Water",False
+"dizziness, nausea",Asthma,Chronic respiratory inflammation,Hydroxychloroquine (200mg daily),Malaria antigen test,Avoid smoking,"Low-fat dairy, Fish",False
+"back pain, blood in urine",Tuberculosis,Hard mineral deposits in kidneys,Tamsulosin (0.4mg daily),Rheumatoid factor test,Avoid smoking,"Green vegetables, Whole grains",True
+"joint stiffness, swelling",Kidney Stones,Chronic respiratory inflammation,Hydroxychloroquine (200mg daily),"Urine analysis, CT scan",Low sodium diet,"Turmeric, Omega-3 rich foods",False
+"fatigue, weight loss",Kidney Stones,Autoimmune joint disorder,Lisinopril (10mg daily),"Urine analysis, CT scan",Mosquito net usage,"Turmeric, Omega-3 rich foods",True
+"dizziness, nausea",Tuberculosis,Chronic respiratory inflammation,Lisinopril (10mg daily),"Urine analysis, CT scan",Mosquito net usage,"Cranberry juice, Water",False
+"joint stiffness, swelling",Malaria,Bacterial lung infection,Hydroxychloroquine (200mg daily),Rheumatoid factor test,Hydration,High-protein diet,False
+"chronic cough, night sweats",Malaria,Autoimmune joint disorder,Ibuprofen (200mg 8 hourly),"Blood pressure check, ECG",Low sodium diet,"Low-fat dairy, Fish",True
+"joint stiffness, swelling",Arthritis,Hard mineral deposits in kidneys,Ibuprofen (200mg 8 hourly),Rheumatoid factor test,Mosquito net usage,"Cranberry juice, Water",False
+"back pain, blood in urine",Kidney Stones,Elevated blood pressure,Tamsulosin (0.4mg daily),"Blood pressure check, ECG",Physical therapy,"Green vegetables, Whole grains",True
+"chronic cough, night sweats",Typhoid,Autoimmune joint disorder,Hydroxychloroquine (200mg daily),"Blood pressure check, ECG",Physical therapy,High-protein diet,True
+"joint stiffness, swelling",Hypertension,Bacterial lung infection,Tamsulosin (0.4mg daily),Rheumatoid factor test,Avoid smoking,"Low-fat dairy, Fish",True
+"back pain, blood in urine",Hypertension,Elevated blood pressure,Amoxicillin (500mg twice daily),"X-ray, MRI",Low sodium diet,"Cranberry juice, Water",False
+"back pain, blood in urine",Kidney Stones,Hard mineral deposits in kidneys,Lisinopril (10mg daily),"Blood pressure check, ECG",Mosquito net usage,"Green vegetables, Whole grains",False
+"chronic cough, night sweats",Typhoid,Bacterial lung infection,Ibuprofen (200mg 8 hourly),"X-ray, MRI",Hydration,"Low-fat dairy, Fish",False
+"fatigue, weight loss",Typhoid,Autoimmune joint disorder,Amoxicillin (500mg twice daily),"X-ray, MRI",Hydration,High-protein diet,False
+"fatigue, weight loss",Arthritis,Chronic respiratory inflammation,Tamsulosin (0.4mg daily),"Urine analysis, CT scan",Low sodium diet,"Green vegetables, Whole grains",False
+"dizziness, nausea",Typhoid,Bacterial lung infection,Lisinopril (10mg daily),"Urine analysis, CT scan",Hydration,"Green vegetables, Whole grains",True
+"fatigue, weight loss",Stroke,Chronic respiratory inflammation,Ibuprofen (200mg 8 hourly),"Urine analysis, CT scan",Low sodium diet,"Low-fat dairy, Fish",True
+"dizziness, nausea",Hypertension,Bacterial lung infection,Hydroxychloroquine (200mg daily),"Urine analysis, CT scan",Physical therapy,"Green vegetables, Whole grains",True
+"dizziness, nausea",Typhoid,Elevated blood pressure,Tamsulosin (0.4mg daily),Malaria antigen test,Low sodium diet,"Turmeric, Omega-3 rich foods",False
+"chronic cough, night sweats",Arthritis,Elevated blood pressure,Tamsulosin (0.4mg daily),"Urine analysis, CT scan",Mosquito net usage,"Turmeric, Omega-3 rich foods",False
+"chronic cough, night sweats",Hypertension,Hard mineral deposits in kidneys,Hydroxychloroquine (200mg daily),"Blood pressure check, ECG",Avoid smoking,"Cranberry juice, Water",True
+"dizziness, nausea",Kidney Stones,Bacterial lung infection,Hydroxychloroquine (200mg daily),"Urine analysis, CT scan",Physical therapy,"Cranberry juice, Water",True
+"chronic cough, night sweats",Malaria,Autoimmune joint disorder,Amoxicillin (500mg twice daily),"Blood pressure check, ECG",Mosquito net usage,"Turmeric, Omega-3 rich foods",False
+"fatigue, weight loss",Typhoid,Bacterial lung infection,Amoxicillin (500mg twice daily),"X-ray, MRI",Low sodium diet,"Cranberry juice, Water",False
+"dizziness, nausea",Hypertension,Autoimmune joint disorder,Tamsulosin (0.4mg daily),"Blood pressure check, ECG",Mosquito net usage,"Cranberry juice, Water",True
+"dizziness, nausea",Pneumonia,Chronic respiratory inflammation,Tamsulosin (0.4mg daily),"X-ray, MRI",Physical therapy,"Cranberry juice, Water",True
+"dizziness, nausea",Kidney Stones,Hard mineral deposits in kidneys,Amoxicillin (500mg twice daily),"Blood pressure check, ECG",Mosquito net usage,"Green vegetables, Whole grains",True
+"joint stiffness, swelling",Stroke,Hard mineral deposits in kidneys,Hydroxychloroquine (200mg daily),"Blood pressure check, ECG",Hydration,High-protein diet,True
+"dizziness, nausea",Typhoid,Bacterial lung infection,Ibuprofen (200mg 8 hourly),Rheumatoid factor test,Hydration,"Cranberry juice, Water",False
+"chronic cough, night sweats",Hypertension,Autoimmune joint disorder,Ibuprofen (200mg 8 hourly),"Blood pressure check, ECG",Physical therapy,High-protein diet,False
+"dizziness, nausea",Epilepsy,Autoimmune joint disorder,Ibuprofen (200mg 8 hourly),Malaria antigen test,Mosquito net usage,"Turmeric, Omega-3 rich foods",False
+"back pain, blood in urine",Tuberculosis,Bacterial lung infection,Amoxicillin (500mg twice daily),"Urine analysis, CT scan",Physical therapy,"Turmeric, Omega-3 rich foods",True
+"back pain, blood in urine",Malaria,Elevated blood pressure,Amoxicillin (500mg twice daily),Malaria antigen test,Physical therapy,"Green vegetables, Whole grains",True
+"joint stiffness, swelling",Arthritis,Elevated blood pressure,Lisinopril (10mg daily),"X-ray, MRI",Hydration,"Cranberry juice, Water",False
+"fatigue, weight loss",Kidney Stones,Elevated blood pressure,Hydroxychloroquine (200mg daily),"Urine analysis, CT scan",Avoid smoking,"Turmeric, Omega-3 rich foods",False
+"chronic cough, night sweats",Asthma,Bacterial lung infection,Amoxicillin (500mg twice daily),"Urine analysis, CT scan",Low sodium diet,"Turmeric, Omega-3 rich foods",False
+"dizziness, nausea",Hypertension,Bacterial lung infection,Tamsulosin (0.4mg daily),"Urine analysis, CT scan",Physical therapy,"Low-fat dairy, Fish",True
+"chronic cough, night sweats",Asthma,Hard mineral deposits in kidneys,Tamsulosin (0.4mg daily),"Blood pressure check, ECG",Mosquito net usage,High-protein diet,True
+"back pain, blood in urine",Tuberculosis,Autoimmune joint disorder,Lisinopril (10mg daily),"Blood pressure check, ECG",Hydration,"Cranberry juice, Water",False
+"chronic cough, night sweats",Asthma,Bacterial lung infection,Tamsulosin (0.4mg daily),Rheumatoid factor test,Low sodium diet,High-protein diet,False
+"joint stiffness, swelling",Hypertension,Autoimmune joint disorder,Amoxicillin (500mg twice daily),Rheumatoid factor test,Low sodium diet,"Cranberry juice, Water",False
+"chronic cough, night sweats",Hypertension,Autoimmune joint disorder,Tamsulosin (0.4mg daily),"Blood pressure check, ECG",Hydration,"Green vegetables, Whole grains",False
+"chronic cough, night sweats",Arthritis,Elevated blood pressure,Tamsulosin (0.4mg daily),"X-ray, MRI",Avoid smoking,"Low-fat dairy, Fish",True
+"joint stiffness, swelling",Typhoid,Chronic respiratory inflammation,Amoxicillin (500mg twice daily),Malaria antigen test,Low sodium diet,High-protein diet,False
+"back pain, blood in urine",Malaria,Autoimmune joint disorder,Amoxicillin (500mg twice daily),Rheumatoid factor test,Low sodium diet,"Low-fat dairy, Fish",True
+"chronic cough, night sweats",Kidney Stones,Chronic respiratory inflammation,Lisinopril (10mg daily),Rheumatoid factor test,Hydration,"Cranberry juice, Water",False
+"joint stiffness, swelling",Tuberculosis,Elevated blood pressure,Tamsulosin (0.4mg daily),"X-ray, MRI",Avoid smoking,"Low-fat dairy, Fish",True
+"back pain, blood in urine",Stroke,Autoimmune joint disorder,Ibuprofen (200mg 8 hourly),"Urine analysis, CT scan",Avoid smoking,"Turmeric, Omega-3 rich foods",False
+"back pain, blood in urine",Arthritis,Autoimmune joint disorder,Hydroxychloroquine (200mg daily),"Urine analysis, CT scan",Mosquito net usage,"Green vegetables, Whole grains",True
+"fatigue, weight loss",Kidney Stones,Bacterial lung infection,Tamsulosin (0.4mg daily),"Urine analysis, CT scan",Avoid smoking,"Turmeric, Omega-3 rich foods",True
+"fatigue, weight loss",Epilepsy,Chronic respiratory inflammation,Tamsulosin (0.4mg daily),"X-ray, MRI",Physical therapy,"Turmeric, Omega-3 rich foods",True
+"back pain, blood in urine",Typhoid,Elevated blood pressure,Lisinopril (10mg daily),Malaria antigen test,Low sodium diet,High-protein diet,True
+"fatigue, weight loss",Asthma,Bacterial lung infection,Lisinopril (10mg daily),Malaria antigen test,Avoid smoking,High-protein diet,True
+"back pain, blood in urine",Asthma,Bacterial lung infection,Ibuprofen (200mg 8 hourly),Malaria antigen test,Hydration,High-protein diet,True
+"joint stiffness, swelling",Epilepsy,Autoimmune joint disorder,Lisinopril (10mg daily),Rheumatoid factor test,Mosquito net usage,"Green vegetables, Whole grains",True
+"joint stiffness, swelling",Asthma,Hard mineral deposits in kidneys,Lisinopril (10mg daily),Rheumatoid factor test,Avoid smoking,"Low-fat dairy, Fish",False
+"fatigue, weight loss",Tuberculosis,Bacterial lung infection,Lisinopril (10mg daily),Malaria antigen test,Avoid smoking,"Cranberry juice, Water",True
+"fatigue, weight loss",Kidney Stones,Autoimmune joint disorder,Lisinopril (10mg daily),Rheumatoid factor test,Avoid smoking,"Green vegetables, Whole grains",True
+"joint stiffness, swelling",Kidney Stones,Chronic respiratory inflammation,Lisinopril (10mg daily),"X-ray, MRI",Hydration,"Low-fat dairy, Fish",False
+"chronic cough, night sweats",Typhoid,Autoimmune joint disorder,Tamsulosin (0.4mg daily),"Blood pressure check, ECG",Physical therapy,"Cranberry juice, Water",True
+"dizziness, nausea",Arthritis,Bacterial lung infection,Ibuprofen (200mg 8 hourly),"Blood pressure check, ECG",Avoid smoking,"Cranberry juice, Water",True
+"back pain, blood in urine",Asthma,Hard mineral deposits in kidneys,Hydroxychloroquine (200mg daily),Malaria antigen test,Avoid smoking,High-protein diet,True
+"dizziness, nausea",Hypertension,Chronic respiratory inflammation,Amoxicillin (500mg twice daily),Malaria antigen test,Low sodium diet,"Green vegetables, Whole grains",False
+"joint stiffness, swelling",Stroke,Chronic respiratory inflammation,Hydroxychloroquine (200mg daily),"Urine analysis, CT scan",Physical therapy,"Cranberry juice, Water",False
+"fatigue, weight loss",Arthritis,Elevated blood pressure,Ibuprofen (200mg 8 hourly),"X-ray, MRI",Mosquito net usage,"Turmeric, Omega-3 rich foods",True
+"back pain, blood in urine",Epilepsy,Autoimmune joint disorder,Lisinopril (10mg daily),Malaria antigen test,Physical therapy,High-protein diet,False

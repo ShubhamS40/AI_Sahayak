@@ -1,0 +1,72 @@
+# AI Sahayak - API Connection Troubleshooting Guide
+
+## Common Issues and Solutions
+
+### 1. Backend Server Not Running
+- Make sure your FastAPI server is running at http://127.0.0.1:8000
+- Start your server with: `uvicorn app:app --reload`
+- Check if server is running by opening http://127.0.0.1:8000/health in your browser
+
+### 2. CORS Issues
+- Add the CORS middleware to your FastAPI app as shown in cors_fix.py
+- Make sure you install the required dependency: `pip install fastapi-cors`
+- Restart your server after making changes
+
+### 3. Gemini API Issues
+- Check if your Gemini API key is valid and has not expired
+- Ensure you have proper quota and limits on your Google Cloud account
+- Try testing the Gemini API directly using a simple request
+
+### 4. FAISS Installation Issues
+- If you're having trouble with FAISS, install it with:
+  ```
+  pip install faiss-cpu  # For CPU version
+  # OR
+  pip install faiss-gpu  # For GPU version
+  ```
+
+### 5. Sentence Transformer Issues
+- Make sure you have the correct model installed:
+  ```
+  pip install sentence-transformers
+  ```
+
+### 6. Network/Firewall Issues
+- Check if localhost connections are being blocked by your firewall
+- Try different ports if 8000 is blocked: `uvicorn app:app --port 8080 --reload`
+
+### 7. Data Format Issues
+- Ensure your symptoms are being properly sent as JSON
+- Check console logs for any JSON parsing errors
+- Try with simple, one-word symptoms to test the basic functionality
+
+## Debugging Tools
+
+### Testing API Directly
+Use a tool like Postman or curl to test your API endpoints directly:
+
+```
+curl -X POST -H "Content-Type: application/json" -d '{"symptoms":"fever"}' http://127.0.0.1:8000/diagnose
+```
+
+### Testing Frontend-Backend Connection
+1. Add console.log statements to track requests and responses
+2. Use the browser's Network tab in Developer Tools to see API calls
+3. Check for errors in the browser console
+4. Try the retry connection button to test connectivity
+
+### Updating the Backend Code
+If you need to update your backend code with CORS support:
+1. Copy the middleware code from cors_fix.py
+2. Add it to your main app file
+3. Restart your server
+
+## Common Error Messages and Meanings
+
+- "Failed to fetch": The server is not running or not accessible
+- "CORS error": Cross-Origin Resource Sharing is not properly configured
+- "NetworkError": Network connection issues between frontend and backend
+- "TypeError: Cannot read properties of undefined": Response parsing issues
+- "SyntaxError: Unexpected token < in JSON": Server returned HTML instead of JSON
+
+For more help, check the FastAPI documentation: https://fastapi.tiangolo.com/tutorial/cors/ 
